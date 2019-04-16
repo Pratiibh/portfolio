@@ -26,20 +26,6 @@ Start time: 12:20 PM
 End time: 2:00 PM  
 Actual time needed to complete: 1 hour 40 minutes  
   
-###  Day 2  
-  
-Feature 1: Pagination  
-Estimated time for completion: 45 minutes  
-Start time: 9:30 AM  
-End time: 10:20 AM  
-Actual time needed to complete: 50 minutes  
-  
-Feature 2: Templating  
-Estimated time for completion: 45 minutes  
-Start time: 10:30 AM  
-End time: 10:45 AM  
-Actual time needed to complete: 15 minutes  
-  
 ### Lab 05a 4/15/2019  
   
 Feature 1: Add Functionality  
